@@ -1,0 +1,8 @@
+Tasks
+1. Develop e-KYC tools (vggface, yolov5, SPR webscraping)
+2. Update model inventory
+3. Risk sector comms
+4. Automate FRAS file import export to SQL using Python
+5. ORO training slides
+6. Model risk assessment
+7. Fras model research
